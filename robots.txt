@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Sherry.github.io/RENYuyuan-personal-page/sitemap.xml
+Sitemap: https://CodingSherry.github.io/sitemap.xml
